@@ -42,6 +42,6 @@ namespace QuickRematch
         /// Version of the plugin. Must be in form <major>.<minor>.<build>.<revision>.
         /// Major and minor versions are mandatory, but build and revision can be left unspecified.
         /// </summary>
-        public const string PLUGIN_VERSION = "3.2.0";
+        public const string PLUGIN_VERSION = "3.3.0";
     }
 }
